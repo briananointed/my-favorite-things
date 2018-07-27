@@ -9,6 +9,7 @@ open in terminal by typing my-favorite-things or double click it
 Run it on any browser.
 ## Technologies Used
 HTML 
+CSS
 Atom Text Editor
 ## Support and contact details
 If you have any questions or go about any issues, contact me at brianwachira7@gmail.com.
